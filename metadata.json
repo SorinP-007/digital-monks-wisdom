@@ -1,0 +1,5 @@
+{
+  "name": "Digital Monk's Wisdom",
+  "description": "An application that provides a poetic, wise, and slightly humorous fortune based on user input, delivered by a digital monk AI using the Gemini API.",
+  "requestFramePermissions": []
+}
